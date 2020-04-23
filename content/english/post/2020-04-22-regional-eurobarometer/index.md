@@ -64,16 +64,13 @@ The supports open access variable is a weighted sum of yes answer
 options to the `QD 17 Do you think that the results of publicly funded research should be made available online free of charge?`
 question.
 
-![Individuals Who Have Poor Local  Library](img/Eurobarometer_79_2_files/figure-markdown_strict/openaccess-1.png)
-
+![Individuals Who Have Poor Local  Library](/img/Eurobarometer_79_2_files/figure-markdown_strict/openaccess-1.png)
 
 ## Demography
 
 The internet access question is a weighted sum of responses to the
 answer option for
 `D46 Which of the following do you have? - An Internet connection at home`.
-
-<img src="img/Eurobarometer_79_2_files/figure-markdown_strict/internetaccess-1.png" width="70%" />
 
 ![Individuals Who Have Internet Access At Home](/img/Eurobarometer_79_2_files/figure-markdown_strict/internetaccess-1.png)
 
