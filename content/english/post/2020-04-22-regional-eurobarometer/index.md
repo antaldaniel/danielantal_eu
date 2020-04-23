@@ -40,7 +40,7 @@ from
 `QB1 How many times in the last twelve months have you read a book?` any
 answer apart from “not in the last 12 months.”
 
-![Individuals Who Read A Book](/img/Eurobarometer_79_2_files/figure-markdown_strict/book-1.png)
+![Individuals Who Read A Book](/img/Eurobarometer_79_2_files/book-1.png)
 
 ### Library Access
 
@@ -48,7 +48,7 @@ The library access variable is a weighted sum of the responses that
 chose from
 `QB1 How many times in the last twelve months have you visited a public libarary?` any answer apart from “not in the last 12 months.”
 
-![Individuals Who Visited A Library](/img/Eurobarometer_79_2_files/figure-markdown_strict/library-1.png)
+![Individuals Who Visited A Library](/img/Eurobarometer_79_2_files/library-1.png)
 
 ### Limited Library Access
 
@@ -56,7 +56,7 @@ The limited library access is a weighted sum of the responses that chose
 from the question block
 `QB2 And for each of the following activities, please tell me why you haven’t done it or haven’t done it more often in the last 12 months? ... Visited a public library` the answer option `Limited or poor quality of this activity in the place where you live.` In this case, the number of respondents is rather low and this is not a very reliable statistic on regional level.
 
-![Individuals Who Have Poor Local  Library](/img/Eurobarometer_79_2_files/figure-markdown_strict/limitedlibrary-1.png)
+![Individuals Who Have Poor Local  Library](/img/Eurobarometer_79_2_files/limitedlibrary-1.png)
 
 ## Science & Technology Attitudes
 
@@ -64,7 +64,7 @@ The supports open access variable is a weighted sum of yes answer
 options to the `QD 17 Do you think that the results of publicly funded research should be made available online free of charge?`
 question.
 
-![Individuals Who Have Poor Local  Library](/img/Eurobarometer_79_2_files/figure-markdown_strict/openaccess-1.png)
+![Individuals Who Have Poor Local  Library](/img/Eurobarometer_79_2_files/openaccess-1.png)
 
 ## Demography
 
@@ -72,13 +72,13 @@ The internet access question is a weighted sum of responses to the
 answer option for
 `D46 Which of the following do you have? - An Internet connection at home`.
 
-![Individuals Who Have Internet Access At Home](/img/Eurobarometer_79_2_files/figure-markdown_strict/internetaccess-1.png)
+![Individuals Who Have Internet Access At Home](/img/Eurobarometer_79_2_files/internetaccess-1.png)
 
 
 The internet access question is a weighted sum of responses to the
 answer option for `D15 What is your current occupation? - student`.
 
-![Regional Student Population](/img/Eurobarometer_79_2_files/figure-markdown_strict/students-1.png)
+![Regional Student Population](/img/Eurobarometer_79_2_files/students-1.png)
 
 
 Data Source & Data Processing
