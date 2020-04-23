@@ -134,7 +134,7 @@ cooperation of the survey’s producer, Kantar.
 Citation
 --------
 
-Antal, Daniel. 2020. “Regionalized Cultural Access and Participation
+Daniel, Antal. 2020. “Regionalized Cultural Access and Participation
 (Books And Libraries) And Science Attitudes Variables 2013.” Zenodo.
 <https://doi.org/10.5281/zenodo.3759811>.
 
