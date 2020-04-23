@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587665927129.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "907271582",
+    "id" : "2B1A6D77",
+    "lastKnownWriteTime" : 1587666608,
+    "last_content_update" : 1587666608684,
+    "path" : "C:/Users/Daniel Antal/OneDrive - Visegrad Investments/_website/da_website/config/_default/languages.toml",
+    "project_path" : "config/_default/languages.toml",
+    "properties" : {
+        "cursorPosition" : "53,0",
+        "scrollLine" : "41"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
