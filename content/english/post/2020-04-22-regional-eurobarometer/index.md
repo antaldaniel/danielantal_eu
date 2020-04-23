@@ -11,7 +11,7 @@ tags = ["CEEMID", "open-data", "regional", "Eurobarometer" ]
 
 projects = ["CEEMID", "opendata"]
 
-summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
+summary = "My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks."
 
 # Featured image
 [image]
@@ -27,11 +27,13 @@ summary = "In the preparation to make the CEEMID available as an open-source dat
 
 +++
 
-This dataset (Antal 2020) was created from the microdata of the
+My new R package, Eurobarometer, helps the creation of data panels and regionalized statistics from the Pan-European survey’s microdata. This allows the creation of many new statistical indicators for the CEEMID Music Observatory and for many market and policy research tasks.
+
+This example dataset (Antal 2020) was created from the microdata of the
 Eurobarometer 79.2 survey using the development version of the
 [eurobarometer R package](https://github.com/antaldaniel/eurobarometer).
 The dataset can be downloaded from
-[Zenodo](https://doi.org/10.5281/zenodo.3759811).
+[Zenodo](https://doi.org/10.5281/zenodo.3759811). It will be used in a forthcoming academic publication about book piracy.
 
 ## Cultural Access & Participation Variables
 
