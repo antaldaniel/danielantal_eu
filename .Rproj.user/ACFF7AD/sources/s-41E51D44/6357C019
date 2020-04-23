@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587668109240.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4006833486",
+    "id" : "6357C019",
+    "lastKnownWriteTime" : 1587668125,
+    "last_content_update" : 1587668125540,
+    "path" : "C:/Users/Daniel Antal/OneDrive - Visegrad Investments/2020 Projektek/danielantal_eu/config/_default/languages.toml",
+    "project_path" : "config/_default/languages.toml",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "41"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
