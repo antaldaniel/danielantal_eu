@@ -16,7 +16,7 @@ abstract = "Slovakia's first music industry report. Following the three income s
 abstract_short = "Slovakia's first music industry report. Following the three income streams model from creation till audience, we summerized for the the number of works that were created, recorded, staged in Hungary in a year. We calculated their revenues, their value added, their employment effect and the investments of the recording industry."
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 projects = ["market-report"]

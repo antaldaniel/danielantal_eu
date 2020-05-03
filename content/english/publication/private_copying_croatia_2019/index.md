@@ -15,8 +15,8 @@ abstract = "This study argues that the cultural and welfare benefits of this pri
 
 abstract_short = "The first measurement of licensed use of music, audiovisual content, home copying and value transfer to media platforms in Croatia for a practical update of the private copying remuneration in the country."
 
-# Is this a selected publication? (true/false)
-selected = true
+# Is this a featured publication? (true/false)
+featured = true
 
 # Projects (optional).
 projects = ["market-report", "pricing", "CEEMID"]

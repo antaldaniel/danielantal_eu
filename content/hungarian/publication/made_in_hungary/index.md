@@ -22,8 +22,8 @@ publication_types = ["6"]
 # Abstract and optional shortened version.
 abstract = "Being visible in the world is always difficult in the Central and Eastern European region.  Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region.   A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book."
 
-# Is this a selected publication? (true/false)
-selected = true
+# Is this a featured publication? (true/false)
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

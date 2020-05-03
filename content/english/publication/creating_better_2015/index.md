@@ -22,15 +22,14 @@ publication_types = ["1"]
 # Abstract and optional shortened version.
 abstract = "Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations"
 
-# Is this a selected publication? (true/false)
-selected = true
+# Is this a featured publication? (true/false)
+featured = true
 
 # Projects (optional).
 
 projects = ["market-report", "opendata", "ceemid"]
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["statistics", "CAP", "survey", "methodology", "PSI", "open-data"]
 
 # Custom links (optional).

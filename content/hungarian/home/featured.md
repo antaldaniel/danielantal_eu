@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Válogatott publikációk"
-subtitle = ""
+subtitle = "A további publikációk lejjebb találhatók."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
