@@ -8,7 +8,7 @@ authors = ["Daniel Antal"]
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types = ["0"]
 
 # Abstract and optional shortened version.
 abstract = "An open source R package for validating sub-national statistical typologies, re-coding across standard typologies of sub-national statistics, and making valid aggregate level imputation, re-aggregation, re-weighting and projection down to lower hierarchical levels to create meaningful data panels and time series."
@@ -63,9 +63,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "TopLeft"
 +++
-[![metacran
-downloads](https://cranlogs.r-pkg.org/badges/regions)](https://cran.r-project.org/package=regions)
-<!-- badges: end -->
+
 
 ## Installation
 
@@ -156,3 +154,5 @@ This package is an offspring of the
   - [The Typology Of The Google Mobility Reports
     (COVID-19)](http://regions.danielantal.eu/articles/google_mobility_report.html)
 
+[![metacran
+downloads](https://cranlogs.r-pkg.org/badges/regions)](https://cran.r-project.org/package=regions)

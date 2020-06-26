@@ -8,7 +8,7 @@ authors = ["Daniel Antal"]
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types = ["0"]
 
 # Abstract and optional shortened version.
 abstract = "The goal of eurobarometer is converting Eurobarometer microdata files, as stored by GESIS, into tidy R data frames and help common pre-processing problems."

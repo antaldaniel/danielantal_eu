@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-date = 2017-01-01T00:00:00
+date = 2018-01-03T00:00:00
 
 # List format.
 #   0 = Simple
