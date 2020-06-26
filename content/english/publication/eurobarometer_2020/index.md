@@ -1,6 +1,6 @@
 +++
 title = "eurobarometer R package"
-date = 2020-06-26T16:00:00
+date = 2020-06-25T16:00:00
 draft = false
 
 authors = ["Daniel Antal"]
