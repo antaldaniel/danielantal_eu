@@ -154,5 +154,8 @@ This package is an offspring of the
   - [The Typology Of The Google Mobility Reports
     (COVID-19)](http://regions.danielantal.eu/articles/google_mobility_report.html)
 
+## Feedback?
+
+Raise and [issue](https://github.com/antaldaniel/eurobarometer/issues) on Github or [get in touch](https://danielantal.eu/#contact). Downloaders from CRAN: 
 [![metacran
 downloads](https://cranlogs.r-pkg.org/badges/regions)](https://cran.r-project.org/package=regions)
