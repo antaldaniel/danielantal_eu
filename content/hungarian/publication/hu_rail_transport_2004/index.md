@@ -22,34 +22,20 @@ publication = "Közlekedéstudományi Szemle [Scientific Review of Transport]"
 publication_short = "Scientific Review of Transport"
 
 # Abstract and optional shortened version.
-abstract = "A értékeli a vasúti áruszabályozási piac elsõ évének
-eredményeit, majd a tanulságok alapján bemutatja a piac újraszabályozásának legfontosabb teendõit."
+abstract = "A cikk értékeli a vasúti áruszabályozási piac elsõ évének eredményeit, majd a tanulságok alapján bemutatja a piac újraszabályozásának legfontosabb teendőit."
 
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects = ["market-report"]
 
 # Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["railways", "regulation", "market-report", "Hungary"]
 
 
 url_pdf = "https://danielantal.eu/hu/publication/hu_rail_transport_2004/09_2005.pdf"
 url_custom = [{name = "archive.org", url = "https://web.archive.org/web/20160405025517/http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
-
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

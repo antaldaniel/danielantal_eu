@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Képességek"
 subtitle = ""
@@ -63,6 +63,6 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Analóg fényképezés"
-  description = "This is my hobby  - I usually carry around a camera that is older than I am. You can find me on instagram or Flickr if you want to see my pictures."
+  description = "Az analóg fényképezés a hobbim. Szinte mindig van nálam egy olyan kamera, amelyik öregebb nálam, és mindenhol szívesen találkozom más analóg fotósokkal."
 
 +++
