@@ -41,7 +41,7 @@ tags = ["railways", "regulation", "market-report", "Hungary"]
 # Custom links (optional).
 
 # Links (optional).
-#url_pdf = "http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf"
+url_pdf = "https://danielantal.eu/hu/publication/hu_branch_lines_2004/11_2004.pdf"
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -53,7 +53,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = " I took the photo during the project in a functional branch line station in Mohora, Hungary."
+  caption = "Mohora v.m., Nógrád megye."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -61,3 +61,5 @@ math = false
 +++
 
 Megjelent a [Közlekedéstudományi Szemle LIV/11. számában](https://matarka.hu/cikk_list.php?fusz=11789), ugyanitt egy nagyon érdekes cikk olvasható Dr. Farkas Gyula tollából a vasúti pályadíjmeghatározás módszereiről.
+
+* [Közlekedéstudományi Szemle 11/2004](https://web.archive.org/web/20160405025452/http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf)
