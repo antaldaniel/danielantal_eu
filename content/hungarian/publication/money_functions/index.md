@@ -1,10 +1,10 @@
 +++
-title = "The development of money functions"
+title = "Pénzfunkciók fejlődésben"
 date = 1998-09-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal", "Géza László"]
+# Authors
+authors = ["Antal Dániel", "László Géza"]
 
 # Publication type.
 # Legend:
