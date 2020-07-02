@@ -1,10 +1,9 @@
 +++
-title = "Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations"
+title = "Jobb nemzeti kulturális statisztikák készítése az Eurobarometer adataival és az ESSNet-Culture technikai ajánlásaival"
 date = 2015-11-09T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Antal Dániel"]
 
 # Publication type.
 # Legend:
@@ -20,7 +19,7 @@ publication_types = ["1"]
 # Publication name and optional abbreviated version.
 
 # Abstract and optional shortened version.
-abstract = "Creating better national cultural statistics with Eurobarometer datasets and ESSNet-Culture technical recommendations"
+abstract = "A pán-európai survey kutatások negyvenedik évfordulóján rendezett szimpóziumon kiállított konferencia-anyag."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -65,6 +64,6 @@ math = false
   focal_point = ""
 +++
 
-You can download the poster presentation here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754226.svg)](https://doi.org/10.5281/zenodo.3754226) or you can zoom into it with prezi.
+A poszter prezenáció letölthető [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3754226.svg)](https://doi.org/10.5281/zenodo.3754226), vagy itt bele lehet zoomolni a prezivel:
 
 <iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" width="550" height="400" src="https://prezi.com/embed/oar71vqxjoq4/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0dCs2TTYrQjNOY0VXWUFnaGUySS9RVnRnPT0&amp;landing_sign=SrA-iYgwejSc75tmUrPjHaAHQpUXuxhxq6DZcREMEGk"></iframe>
