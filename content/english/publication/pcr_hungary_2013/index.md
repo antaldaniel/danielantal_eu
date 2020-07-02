@@ -1,10 +1,10 @@
 +++
-title = "Analysis of the Hungarian Private Copy Remuneration Scheme"
+title = "Az üreshordozó díjrendszer vizsgálata"
 date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Antal Dániel"]
 
 # Publication type.
 # Legend:
