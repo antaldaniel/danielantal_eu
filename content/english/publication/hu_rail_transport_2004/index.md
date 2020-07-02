@@ -3,8 +3,7 @@ title = "Lessons from the first year of the liberalized rail freight market for 
 date = 2004-09-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Antal Dániel"]
 
 # Publication type.
 # Legend:
@@ -28,11 +27,6 @@ abstract = "An empirical review of various problems in Hungary's newly liberaliz
 selected = true
 
 # Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects = ["market-report"]
 
 # Tags (optional).
