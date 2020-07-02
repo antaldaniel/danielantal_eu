@@ -1,5 +1,5 @@
 +++
-title = "Central & Eastern European Music Industry Report 2020"
+title = "Közép- és Kelet-Európai Zeneipari Jelentés 2020"
 date = 2020-01-29T16:00:00
 draft = false
 
@@ -11,9 +11,9 @@ authors = ["Daniel Antal"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
+abstract = "Az első magyar, szlovák, horvát és cseh zeneipari jelentések összehasonlítása a bolgár, litván, osztrák, örmény, szerb, szlovák és szlovén adatokkal és tapasztalatokkal."
 
-abstract_short = "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
+abstract_short = "Az első magyar, szlovák, horvát és cseh zeneipari jelentések összehasonlítása a bolgár, litván, osztrák, örmény, szerb, szlovák és szlovén adatokkal és tapasztalatokkal."
 
 # Is this a featured publication? (true/false)
 featured = true
