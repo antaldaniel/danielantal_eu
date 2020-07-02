@@ -34,7 +34,7 @@ date_format = "2006-01-02"
   title = "Senior vezetői tanácsadó és data scientist"
   company = "CEEMID / Visegrad Investments"
   company_url = ""
-  location = "Den Haag, Netherlands"
+  location = "Hága, Hollandia"
   date_start = "2015-07-01"
   date_end = ""
   description = """
@@ -53,12 +53,12 @@ date_format = "2006-01-02"
   description = """
   I started a foreign investments consultancy in Budapest with a small team in Budapest, later moved to the Netherlands and associated with Candole Partners, a consultancy that provides market and transaction analysis and advice to firms investing and operating across Central and Southeast Europe.
   
-- Financial and economic planning for transport and energy infrastructure projects (CBA, NPV, IRR, demand, ex ante, ex post evaluations, corporate and EU funded) 
-- Management consulting with corporate finance and quantitative methods (NPV, IRR, ROIC, sales forecasting, cost drivers, time series or panel data analysis)
-- Regulatory impact assessment, compliance issues, regulatory changes (tariff calculations, impact on revenue, market share, taxation, etc, SCP and competition authority models)
-- Supporting foreign direct investment / buy-side clients (market research, target and location selection, due diligence, fair value)
-- Experience in managing a small fund with one acquisition, transactional support, disinvestment.
-Experience in transport, energy, media, online publishing, copyrights, insurance.
+- Nagy közlekedési és energetiai projektek pénzügyi és gazdasági tervezése (CBA, NPV, IRR, keresleti modellek, ex ante, ex post értékelések vállalati és EU pályázati környezetben) 
+- Vezetői tanácsadás vállalati pénzügi és kvantiatív modellezéssel  (NPV, IRR, ROIC, értékesítési előrejelzés, költségtényezők, idősorok és ökonometriai panel elemzés)
+- Szabályozási hatásvizsgálat, megfelelőség, szabályozási változásk  (tarifaszámítások, várható hatás a bevételekre, adózásra; SCP versenypolitikai modellek, fúziókontroll)
+- Befektetők támogatása, vevő-oldali támogatás (piackutatás, felvásárlási célpont keresése és rangsorolása, due diligence, vállalatértékelés)
+- Kis befektetési alap kezelése, felvásárlás, tranzakció támogatás, eladás.
+
 
 My company started cooperation with Candole Partners in 2010 and became associated in 2013.  In Hungary it is chartered as VSG4 Investments and in the Netherlands as Visegrad Investments.
   """
