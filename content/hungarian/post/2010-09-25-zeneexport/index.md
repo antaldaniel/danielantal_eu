@@ -1,7 +1,7 @@
 +++
 title = "A svéd rock és a világ nagy zeneexportőrei"
 
-date = 2010.09.25T15:10:00
+date = 2010-09-25T15:10:00
 draft = false
 
 authors = ["Antal Dániel"]
