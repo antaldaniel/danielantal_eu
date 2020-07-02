@@ -50,7 +50,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "I mainly work in the R language with Rmarkdown/Rshiny/bookdown/blogdown for reproducible reporting. I have experience in C++, Python, GAMS, Pascal, Javascript languages, too."
+  description = "I mainly work in the R language with Rmarkdown/Rshiny/bookdown/blogdown for reproducible reporting, and I am the author of two released packages on CRAN. I have experience in C++, Python, GAMS, Pascal, Javascript languages, too."
   
 [[feature]]
   icon = "language"

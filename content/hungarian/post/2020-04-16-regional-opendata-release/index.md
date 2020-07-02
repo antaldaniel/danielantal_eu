@@ -1,5 +1,5 @@
 +++
-title = "First CEEMID Regional Open Data Release"
+title = "A CEEMID első regionális szintű open data adatpublikációja"
 
 date = 2020-04-16T17:00:00
 lastmod = 2020-04-16T17:30:00
@@ -11,7 +11,7 @@ tags = ["CEEMID", "open-data", "music-demand", "European Music Observatory"]
 
 projects = ["CEEMID", "opendata"]
 
-summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
+summary = "Annak előkészületeként, hogy a CEEMID nyílt forráskodú adatintegrációs rendszerként és adatforrásként a European Music Observatory egyik alapja lehessen, megkezdtük a regionális (országhatárokon belüli) adatszolgáltatást."
 
 # Featured image
 [image]

@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = true  
 weight = 20  # Order that this section will appear.
 
 title = "Képességek"
@@ -18,39 +18,39 @@ subtitle = ""
   icon = "briefcase"
   icon_pack = "fas"
   name = "Vezetői tanácsadás"
-  description = "I help my clientst to understand strategic challenges, measurement of the issue and creating data-driven interventions for measureable results."  
+  description = "Stratégiai üzleti és közpolitikai problémák megértésében, kvantifikálásban, és tény-vezérelt megoldások keresésében segítem az ügyfeleimet."  
   
 [[feature]]
   icon = "file-invoice-dollar"
   icon_pack = "fas"
   name = "Értékelés"
-  description = "As a CFA charterholder with a degree in Competition Policy and strategy consultant I am very experienced with making valuations. My speciality is valuing intangible assets and pricing royalties."
+  description = "CFA képesítésem, közgazdász és versenypolitikai diplomáim igazolják, hogy munkámat magas szakmai színvonvalon vagyok képes ellátni. Elsősorban immateriális javak, szellemi termékek, jogdíjak értékelésére szakosodtam."
 
 [[feature]]
   icon = "gavel"
   icon_pack = "fas"
   name = "Szabályozás"
-  description = "As a consultant to regulated companies and a former railway network regulator, I am very experienced with regulatory and competition issues, and I work on RegTech applications that make regulatory filings and cases faster, more accurate and less burdensome."
+  description = "Erősen szabályozott környezetben működő vállalkozások tanácsadójaként és egy árszabályozó hatóság egykori vezetőjeként nagyon sokoldalű tapasztalataim vannak a gazdasgászabályozási és versenypolitikai problémák megoldásában. Olyan RegTech alkalmazások kialakításán dolgozom, amelyek a jogszabályoknak és hatóságoknak való megfelelést gyorsabbá, pontosabbá és kevésbé megterhelővé teszik."
 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Analytics"
-  description = "My consulting advice and my RegTech and Advocacy Reports are based on predicitve, forecasting with various regression, panel regression, time-series and various machine learning models."
+  description = "Tanácsadói munkám, RegTech alkalmazásaim és jelentéseim prediktív machine learning modelleken, ökonometriai panel elemzéseken, és magasszintű statisztikai modelleken alapulnak."
   
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Adatgyűjtések"
-  description = "I support my work by creating statistics, data gathering, survey design, sampling, pre-processing and integration with your existing management data."
+  description = "Az elemző és tanácsadó munkámat adatgyűjtésekkel, adatgyűjtések és minták tervezésével, adatfeldolgozással és adatintegrációval támogatom."
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "I mainly work in the R language with Rmarkdown and bookdown for reproducible reporting. I have experience in C++, Python, GAMS, Pascal, Javascript languages, too."
+  description = "Elsősorban az R statisztikai programozási nyelven dolgozom, és két megjelent programcsomagom található a CRAN archívumban. Reprodukálható kutatási anyagokat készítek Rmarkdown és bookdown segítségével, de van tapasztalatom a C++, Python, GAMS, Pascal, Javascript nyelvek használatában is."
   
 [[feature]]
   icon = "language"
