@@ -1,5 +1,5 @@
 +++
-title = "A közintézmények újrahasznosítható információinak piaca Magyarországon""
+title = "A közintézmények újrahasznosítható információinak piaca Magyarországon"
 
 date = 2009-12-15T19:00:00
 lastmod = 2009-12-15T19:00:00
