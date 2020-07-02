@@ -19,7 +19,6 @@ publication_short = "A közintézmények újrahasznosítható információinak p
 
 # Projects (optional).
 projects = ["market-report", "open-data"]
-tags = ["open-data", "Hungary", "PSI"]
 
 url_pdf = "https://www.academia.edu/7752804/A_k%C3%B6zint%C3%A9zm%C3%A9nyek_%C3%BAjrahasznos%C3%ADthat%C3%B3_inform%C3%A1ci%C3%B3inak_piaca_Magyarorsz%C3%A1gon_Market_size_of_the_re-usable_public_sector_information_in_Hungary_"
 
