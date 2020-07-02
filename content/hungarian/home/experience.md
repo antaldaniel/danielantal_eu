@@ -32,15 +32,15 @@ date_format = "2006-01-02"
    """
 [[experience]]
   title = "Senior vezetői tanácsadó és data scientist"
-  company = "CEEMID / Visegrad Investments"
+  company = "Satellite Report / CEEMID / Visegrad Investments"
   company_url = ""
   location = "Hága, Hollandia"
   date_start = "2015-07-01"
   date_end = ""
   description = """
-  Experienced management consultant and senior data scientist who helps corporate and public clients with financial and business analysis, evaluations, regulatory impact analysis, market research and business planning. 
+  Tapasztalt vezetői tanácsadó és szenior adatelemző, aki vállalati és közpolitikai ügyfeleit pénzügyi és gazdasági elemzésekkel, értékelésekkel, gazdasági hatáselemzéssel, piackutatással és pénzügyi-gazdasági tervezéssel segíti.
   
-  Familiar with the economic, financial and legal aspects of acquisitions, investments and divestments, setting up and liquidating undertakings, economic analysis for competition law and merger approval, utility price regulation, assess to infrastructure networks. Team leadership, project management, budgeting. Experience with corporate C-level and board level decisions, public governance on national and EU level.
+  Jártas vagyok a vállalati befektetések, felvásárlások gazdasági, pénzügyi, jogi kérdéseiben, a befektetési és eladási kérdésekben, szervezetek alapításában és megszüntetésében, versenyjogi és fúziókontroll ügyekhez gazdasági elemzések készítésében, árszabályozásban.
   
   """
 [[experience]]
@@ -88,11 +88,9 @@ date_format = "2006-01-02"
   location = "Budapest"
   date_start = "2002-07-15"
   date_end = "2004-03-15"
-  description = """After returning from London from a Future Leaders Programme with the [Chevening Scholarship](https://www.chevening.org/) advisory position in Hungary’s EU accession and economic policy making. 
+  description = """Miután a brit kormány [Chevening Ösztöndíjának](https://www.chevening.org/) _Future Leaders_ vezetőképző prograjáról hazatértem Magyarországra, elsősorban az ország EU csatlakozásával kapcsolatos szakmai feladatokkal foglalkoztam a gazdaságpolitika és fejlesztéspolitika területén.
 
-Professional / advisory responsibilities: economic policy advisor on implementing EU energy and transport liberalization, institution building, oversight of a public sector information projects (ministry of economy and transport), ex-post evaluation of Hungary's government investments, training ex post evaluation unit (national development agency), drafting railway policy option (transport minister) 
-
-Managerial responsibilities: consolidation of governmental information management systems, economic chapter Information Society Strategy of Hungary policy document. """
+"""
 
 [[experience]]
   title = "Junior banki tanácsadó"
@@ -101,9 +99,7 @@ Managerial responsibilities: consolidation of governmental information managemen
   location = "Budapest"
   date_start = "1999-09-01"
   date_end = "2002-07-14"
-  description = """Junior banking consultant at ITCB, a private know-how transfer entity that helped the transformation to a two-tier banking regime in Southeast Europe with vocational training and consulting services. Tasks: training needs assessment, business research in banking, insurance and mortgage markets (opened at that time for foreign investors and privatization). 
-  
-On study leave from September 2001."""
+  description = """Junior banki tanácsadóként képzési szükségek feltérképezésével, üzleti kutatásokkal és modellezéssel foglalkoztam."""
   
 
 [[experience]]
