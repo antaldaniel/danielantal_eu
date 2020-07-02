@@ -14,22 +14,25 @@ role: Founder
 
 # Organizations/Affiliations
 organizations:
-- name: Visegrad Investments - CEEMID
+- name: Satellite Report - Visegrad Investments - CEEMID
   url: "https//danielantal.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducible social science, economics and finance.
+bio: Szakmia érdeklődési területeim: pénzügytan, reprodukálható társadalomtudományi kutatások, programozás R nyelven.
 
 topics:
-- Intangible Assets / Royalty Valuation
+- Szellemi tulajdon, jogdíjak értékelése
 - Open Data
-- Music
+- Zene és szórakoztatóipar
 
 education:
   courses:
   - course: Chartered Financial Analyst
     institution: CFA Institute
     year: 2015
+  - course: MSc Economic Regulation And Competition Policy
+    institution: City University London
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,4 +66,4 @@ user_groups:
 - Founders
 ---
 
-Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for my recommendations, and I apply the standards and ethical guidelines of the Chartered Financial Analyst Institute. 
+Antal Dániel tapasztalt vezetői tanácsadó vagyok.  A közgazdaságtan, pénzügytan és adattudomány magas szintű művelőjeként különféle értékelési módszereket, vállalati pénzügyi modelleket, gazdasági hatáselemzéseket, előrejelző és prediktív modelleket alkotok tanácsadói javaslataim megalapozására. A CFA Intézet szakmai előírásait és etikai kódexét követem. R programnyelven több statisztikai és elemző szoftverem forráskódját nyilvánossá tettem.
