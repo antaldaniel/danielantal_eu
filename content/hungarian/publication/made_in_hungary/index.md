@@ -37,9 +37,6 @@ projects = ["R", "market-report"]
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["CEEMID", "music-industry", "hungary"]
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-
 # Digital Object Identifier (DOI)
 doi = ""
 

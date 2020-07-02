@@ -1,5 +1,6 @@
 +++
-title = "Lessons from the first year of the liberalized rail freight market for re-regulation"
+title = " A vasúti áruszállítási piac elsõ évének tanulságai
+az újraszabályozás szempontjábó"
 date = 2004-09-01T00:00:00
 draft = false
 
@@ -22,7 +23,8 @@ publication = "Közlekedéstudományi Szemle [Scientific Review of Transport]"
 publication_short = "Scientific Review of Transport"
 
 # Abstract and optional shortened version.
-abstract = "An empirical review of various problems in Hungary's newly liberalized rail freight market. I conducted the survey with the help of railway undertakings and authorities in my capacity as Commissioner for Rail Regulation. The findings were used to support the government bill to establish the rules of the liberalized railways in Hungary, subsequently the Act on Rail Transport 2005/183."
+abstract = "A értékeli a vasúti áruszabályozási piac elsõ évének
+eredményeit, majd a tanulságok alapján bemutatja a piac újraszabályozásának legfontosabb teendõit."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -39,9 +41,10 @@ projects = ["market-report"]
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["railways", "regulation", "market-report", "Hungary"]
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
+
+url_pdf = "https://danielantal.eu/hu/publication/hu_rail_transport_2004/09_2005.pdf"
+url_custom = [{name = "archive.org", url = "https://web.archive.org/web/20160405025517/http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
+
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -61,3 +64,4 @@ math = false
 +++
 
 
+* [Közlekedéstudományi Szemle 9/2005](https://web.archive.org/web/20160405025517/http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf)
