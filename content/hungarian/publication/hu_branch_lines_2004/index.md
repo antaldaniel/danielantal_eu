@@ -1,10 +1,9 @@
 +++
-title = "Opportunities for branch lines in the new European regulatory environment"
+title = "A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben"
 date = 2004-11-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+authors = ["Antal Dániel"]
 
 # Publication type.
 # Legend:
@@ -40,8 +39,9 @@ projects = ["internal-project"]
 tags = ["railways", "regulation", "market-report", "Hungary"]
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf"}]
+
+# Links (optional).
+#url_pdf = "http://old.ktenet.hu/061kozl_szemle/binx/11_2004.pdf"
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -60,4 +60,4 @@ math = false
   focal_point = ""
 +++
 
-Original title in Hungarian: _A mellékvonalak lehetőségei az új európai vasútszabályozási környezetben_, in: Közlekedéstudományi Szemle
+Megjelent a [Közlekedéstudományi Szemle LIV/11. számában](https://matarka.hu/cikk_list.php?fusz=11789), ugyanitt egy nagyon érdekes cikk olvasható Dr. Farkas Gyula tollából a vasúti pályadíjmeghatározás módszereiről.
