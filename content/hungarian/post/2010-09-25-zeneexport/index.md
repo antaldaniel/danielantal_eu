@@ -14,7 +14,6 @@ summary = "Sokan tekintenek a világ popzenei iparára mint az amerikanizáció 
 # projects = ["grants", "CEEMID"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
   caption = ""
