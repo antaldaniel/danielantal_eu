@@ -4,7 +4,7 @@ date = 2013-07-01T00:00:00
 draft = false
 
 # Authors.
-authors = ["Daniel Antal, "Steve Corvell", "Frank Klausz 3rd"]
+authors = ["Daniel Antal", "Steve Corvell", "Frank Klausz 3rd"]
 
 # Publication type.
 # Legend:
