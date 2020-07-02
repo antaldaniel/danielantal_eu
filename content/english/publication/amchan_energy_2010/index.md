@@ -1,6 +1,6 @@
 +++
-title = "AmCham Energy and Environment Committee published Position Brief"
-date = 2013-07-01T00:00:00
+title = "Az energiapolitika, nemzeti versenyképességünk egyik tartópillére"
+date = 2010-03-29T10:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "AmCham Position Brief 8"
 publication_short = "AmCham Position Brief 8"
 
 # Abstract and optional shortened version.
-abstract = "It is AmCham’s view that Hungary does not have a consistent energy policy evaluation framework that would enable policymakers and investors to correctly establish priorities and create a roadmap towards energy security. In the current situation, Hungarians on average, both consumer and industrial, pay relatively more for their energy while using it less efficiently than their Western European counterparts. This weakens Hungary’s national competitiveness while simultaneously lowering consumer spending on non-energy categories. By reviewing leading manufacturing-oriented, energy-dependent countries, it shows that Hungary’s problems are not a given. Germany uses less than half the amount of energy Hungary uses to create a single euro of GDP. Japan has an excellent evaluation, planning and policy mix that resulted in exemplary energy savings in the past three decades. The Hungarian government can take a number of actions in the domestic economy to improve this situation, as well as initiate better co-operation regionally."
+abstract = "A jelenlegi helyzetben a magyar lakossági és ipari fogyasztók egyaránt többet fizetnek az energiáért nyugat-európai társaiknál, ugyanakkor kevésbé hatékonyan használják fel azt. "
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -39,9 +39,8 @@ projects = ["market-report"]
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["investments", "environment", "energy", "regulation", "Hungary"]
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "AmCham Position Brief 8", url = "https://www.amcham.hu/download/001/181/Energy-Positin-Brief-_ENG-Final.pdf"}]
+url_pdf = "https://www.amcham.hu/download/001/181/Energy-Positin-Brief-_ENG-Final.pdf"
+url_custom = [{name = "Sajtóanyag", url = "https://www.amcham.hu/amcham-energy-and-environment-committee-published-position-brief"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -60,4 +59,19 @@ math = false
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+Az AmCham véleménye szerint Magyarország ma nem rendelkezik olyan összehangolt, az energiapolitika kialakítására és értékelésére
+szolgáló keretrendszerrel, amely lehetővé tenné a kormányzat és a befektetők számára a prioritások helyes megállapítását, és az
+energiabiztonság felé vezető út kijelölését. A jelenlegi helyzetben a magyar lakossági és ipari fogyasztók egyaránt többet fizetnek az
+energiáért nyugat-európai társaiknál, ugyanakkor kevésbé hatékonyan használják fel azt. Ez gyengíti a magyar nemzetgazdaság
+versenyképességét, ezzel egyidejûleg pedig alacsonyabb szintre kényszeríti a más területre jutó lakossági fogyasztást. Ha összevetjük
+Magyarországot az ipar és a gyártás területén versenyképes, energiafüggő országokkal, akkor kiderül, hogy helyzetünk nem
+megváltoztathatatlan adottság. Németország egyetlen eurónyi GDP előállításához feleannyi energiát használ fel, mint Magyarország.
+Japánban pedig kiváló tervezési és értékelési szakpolitikai rendszer segíti az elmúlt három évtizedben példaértékûvé vált nemzeti
+energiahatékonysági programot. A magyar kormányzat számos gazdaságpolitikai és regionális diplomáciai kezdeményezéssel javíthatná Magyarország versenyképességét az energetikai ágazaton keresztül.
+
+
+## Kapcsolódó anyagok
+
+* [Az energiapolitika mint a nemzeti versenyképesség alappillére - Független szabályozás, megfelelő árak és befektetési szint, regionális energiadiplomácia](https://www.amcham.hu/all-past-events/amcham_energy_and_environment_committee_debate_series_on_the_main_issues_of_the_energy_sector_1st_debate_in_hungarian)
+
+* napi.hu: [Így árt Magyarországnak a méregdrága energia](https://www.napi.hu/magyar_gazdasag/igy_art_magyarorszagnak_a_meregdraga_energia.442645.html/amp) (2010.04.19.)
