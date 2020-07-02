@@ -51,16 +51,13 @@ date_format = "2006-01-02"
   date_start = "2010-01-01"
   date_end = "2015-06-30"
   description = """
-  I started a foreign investments consultancy in Budapest with a small team in Budapest, later moved to the Netherlands and associated with Candole Partners, a consultancy that provides market and transaction analysis and advice to firms investing and operating across Central and Southeast Europe.
+  Az elsősorban befektetők kiszolgálásra szakosodott tanácsadó praxisomat először Budapesten állítottam fel egy kis csapattal, később Hollandiába költöztem és társultam az egykori Candole Partners tanácsadó céggel, amely piaci és tranzakciós elemzéseket végzett, és befektetőknek adott tanácsokat Közép-, kelet- és délkelet európai piacokon.
   
 - Nagy közlekedési és energetiai projektek pénzügyi és gazdasági tervezése (CBA, NPV, IRR, keresleti modellek, ex ante, ex post értékelések vállalati és EU pályázati környezetben) 
 - Vezetői tanácsadás vállalati pénzügi és kvantiatív modellezéssel  (NPV, IRR, ROIC, értékesítési előrejelzés, költségtényezők, idősorok és ökonometriai panel elemzés)
 - Szabályozási hatásvizsgálat, megfelelőség, szabályozási változásk  (tarifaszámítások, várható hatás a bevételekre, adózásra; SCP versenypolitikai modellek, fúziókontroll)
 - Befektetők támogatása, vevő-oldali támogatás (piackutatás, felvásárlási célpont keresése és rangsorolása, due diligence, vállalatértékelés)
 - Kis befektetési alap kezelése, felvásárlás, tranzakció támogatás, eladás.
-
-
-My company started cooperation with Candole Partners in 2010 and became associated in 2013.  In Hungary it is chartered as VSG4 Investments and in the Netherlands as Visegrad Investments.
   """
 
 [[experience]]
@@ -79,9 +76,10 @@ My company started cooperation with Candole Partners in 2010 and became associat
   location = "Budapest"
   date_start = "2004-03-15"
   date_end = "2008-08-31"
-  description = """As Commissioner for Rail Regulation responsible for proposing a policy model and draft legislation for opening the Hungarian railway market for private entry (2005). 
-
-As first executive chairman of the railway regulatory body Hungarian Rail Office (2006-2008). Creating legislative and contractual arrangements for about 20 new entrants (third-party insurance, access rights and pricing, financial assessment of railway undertakings, etc) and to prepare ground for tendered privatizations in the railway cargo business. """
+  description = """Vasútszabályozásért felelős miniszteri biztosként a feladatom a vasútpolitika kidolgozása, a vasúti közlekedésről szóló törvényjavaslat megalkotása és a piacszabályozó hatóság megalapítása volt.
+  
+  A hatóság vezetőjeként vasúti társaságok szakmai megfelelőségének, pénzügyi teljesítőképességének értékelésével és infrastruktúra-hozzáférési díjak meghatározásával, felülvizsgálatával foglalkoztam.
+  """
 
 [[experience]]
   title = "gazdaságpolitikai tanácsadó, majd stratégiai információs igazgató"

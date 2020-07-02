@@ -18,10 +18,10 @@ organizations:
   url: "https//danielantal.eu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Szakmia érdeklődési területeim: pénzügytan, reprodukálható társadalomtudományi kutatások, programozás R nyelven.
+bio: Szakmia érdeklődési területeim a pénzügytan, reprodukálható társadalomtudományi kutatások, programozás R nyelven.
 
 topics:
-- Szellemi tulajdon, jogdíjak értékelése
+- Szellemi tulajdon és jogdíjak értékelése
 - Open Data
 - Zene és szórakoztatóipar
 
@@ -30,9 +30,6 @@ education:
   - course: Chartered Financial Analyst
     institution: CFA Institute
     year: 2015
-  - course: MSc Economic Regulation And Competition Policy
-    institution: City University London
-    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
