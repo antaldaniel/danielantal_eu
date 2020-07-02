@@ -1,11 +1,10 @@
 +++
-title = " A vasúti áruszállítási piac elsõ évének tanulságai
-az újraszabályozás szempontjábó"
+title = " A vasúti áruszállítási piac elsõ évének tanulságai az újraszabályozás szempontjából"
 date = 2004-09-01T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal"]
+# Authors
+authors = ["Antal Dániel"]
 
 # Publication type.
 # Legend:

@@ -39,9 +39,9 @@ projects = ["market-report"]
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["railways", "regulation", "market-report", "Hungary"]
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "pdf", url = "http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
+
+url_pdf = "https://danielantal.eu/hu/publication/hu_rail_transport_2004/09_2005.pdf"
+url_custom = [{name = "archive.org", url = "https://web.archive.org/web/20160405025517/http://old.ktenet.hu/061kozl_szemle/binx/09_2005.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
