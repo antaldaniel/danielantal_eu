@@ -27,7 +27,7 @@ date_format = "2006-01-02"
   date_start = "2020-02-03"
   date_end = ""
   description = """
-  Tag lettem a Cultural Policy Designers Network kollaboratív platformon, amelynek célja a magas színvonalú tanácsadás, stratégiai tervezés és projekt implementáció megvalósítása a kreatív és kulturális szektorban.  A hálózat tagja aktívan közreműködnek a nemzetközi, elsősorban európai közpolitikai-alkotásban is.  Azt remélem, hogy a vállalatértékelési, immateriális eszközértékelési és a adattudományon alapuló módszereim új színt hoznak ebbe az együttműködésbe.
+  Tag lettem a [Cultural Policy Designers Network](http://www.culturaldesigners.eu/) kollaboratív platformon, amelynek célja a magas színvonalú tanácsadás, stratégiai tervezés és projekt implementáció megvalósítása a kreatív és kulturális szektorban.  A hálózat tagja aktívan közreműködnek a nemzetközi, elsősorban európai közpolitikai-alkotásban is.  Azt remélem, hogy a vállalatértékelési, immateriális eszközértékelési és a adattudományon alapuló módszereim új színt hoznak ebbe az együttműködésbe.
   
    """
 [[experience]]
@@ -109,6 +109,7 @@ date_format = "2006-01-02"
   location = "Budapest"
   date_start = "1998-07-01"
   date_end = "1998-09-30"
-  description = """Trainee at the strategy unit (the company at that time was called Matáv). Introduced into long-term planning, product development and the creation of a daughter company for a multinational, NYSE/BSE listed company. First published paper with my mentor."""
+  description = """A Magyar Telekom (akkori nevén Matáv) stratégiai osztályán voltam gyakornok.
+  """
   
 +++
