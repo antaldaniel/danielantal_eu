@@ -1,5 +1,5 @@
 +++
-title = "The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience"
+title = "A magyar könnyűzenei repertoár növekedése: kik alkotják és hogyan találja meg közönségét?"
 date = 2017-01-22T00:00:00
 draft = false
 
@@ -70,6 +70,6 @@ math = false
   focal_point = ""
 +++
 
-Being visible in the world is always difficult in the Central and Eastern European region.  Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region.   A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter in the book.
+Being visible in the world is always difficult in the Central and Eastern European region.  Made in Hungary is the first book in the Popular Music Studies series of Routledge from the region.   A description of our first datasets, the motivation of the research and the CEEMID concept is laid out as a closing, quantitative chapter _The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience_ in the book.
 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.hu/books?id=9KvZDQAAQBAJ&lpg=PA1980&pg=PA1980&output=embed" width=500 height=700></iframe>

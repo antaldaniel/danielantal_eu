@@ -5,8 +5,8 @@ date = 2009-12-15T19:00:00
 lastmod = 2009-12-15T19:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Antal", "Rita Kiss"]
+# Authors
+authors = ["Antal Dániel", "Kiss Rita"]
 
 tags = ["market-size", "data", "psi", "Hungary", "pricing", "open-data"]
 
