@@ -9,7 +9,7 @@ authors = ["Balazs Bodó", "Daniel Antal", "Zoltan Puha"]
 publication_types = ["3"]
 
 # Abstract and optional shortened version.
-abstract = "The paper analyzes a set of weblogs of one of the Library Genesis mirrors, provided to us by one of the administrators of the service. The weblogs contain records of individual book downloads from the period between September 2014 and March 2015. We use the date, the book identifier, and the geo-coordinates of the downloader included in the dataset to reconstruct the global black-market demand for scholarly literature. We then proceed to build a model to explain this traffic with various macroeconomic indicators on the global stage, and with economic, educational, R&D, and other cultural consumption indicators on NUTS-2 level in the European Union."
+abstract = "Elemzésünk a világ egyik legnagyobb kalóz könyvtárának az adataiból próbálja megérteni a tudományos könyvek világpiacát."
 
 abstract_short = "Elemzésünk a világ egyik legnagyobb kalóz könyvtárának az adataiból próbálja megérteni a tudományos könyvek világpiacát."
 
