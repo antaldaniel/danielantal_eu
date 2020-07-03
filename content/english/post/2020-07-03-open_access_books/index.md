@@ -2,7 +2,7 @@
 title = "Open Access is not a Panacea, even if it’s Radical – an Empirical Study on the Role of Shadow Libraries in Closing the Inequality of Knowledge Access"
 
 date = 2020-07-03T11:00:00
-date = 2020-07-03T12:28:00
+lastmod = 2020-07-03T12:28:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
@@ -14,7 +14,7 @@ summary = "The paper analyzes a set of weblogs of one of the book piracy mirrors
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Regionalized Eurobarometer Survey Data"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -25,7 +25,7 @@ summary = "The paper analyzes a set of weblogs of one of the book piracy mirrors
 
 +++
 
-Our research paper with Balázs Bodó and Zoltán Puha has been submitted for peer-review, and it is available as a preprint on SSRN.  All comments, suggestions are warmly [welcome](#contact).
+Our research paper with Balázs Bodó and Zoltán Puha has been submitted for peer-review, and it is available as a preprint on [SSRN](https://danielantal.eu/publication/shadow_libraries_2020/).  All comments, suggestions are warmly [welcome](#contact).
 
 [Library Genesis](https://libgen.is/) is one of the oldest and largest illegal scholarly book collections online. In the middle of 2018, this shadow library is hosting and making available without the authorization of copyright holders more than 2 million scholarly publications, monographs, textbooks, as well many works of fiction. It also provides a back-up archive of scientific papers illegally accessed via the Sci-Hub service. Using new, extensive, first hand direct observation data on its usage, this paper follows up on earlier studies on the role this shadow library plays in the global scholarly publication ecosystem.
 
