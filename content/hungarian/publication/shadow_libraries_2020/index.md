@@ -6,14 +6,12 @@ draft = false
 authors = ["Balazs Bodó", "Daniel Antal", "Zoltan Puha"]
 
 # Publication type.
-# Legend:
-
 publication_types = ["3"]
 
 # Abstract and optional shortened version.
 abstract = "The paper analyzes a set of weblogs of one of the Library Genesis mirrors, provided to us by one of the administrators of the service. The weblogs contain records of individual book downloads from the period between September 2014 and March 2015. We use the date, the book identifier, and the geo-coordinates of the downloader included in the dataset to reconstruct the global black-market demand for scholarly literature. We then proceed to build a model to explain this traffic with various macroeconomic indicators on the global stage, and with economic, educational, R&D, and other cultural consumption indicators on NUTS-2 level in the European Union."
 
-abstract_short = "The paper analyzes a set of weblogs of one of the book piracy mirrors to reconstruct the global black-market demand for scholarly literature."
+abstract_short = "Elemzésünk a világ egyik legnagyobb kalóz könyvtárának az adataiból próbálja megérteni a tudományos könyvek világpiacát."
 
 # Is this a selected publication? (true/false)
 featured = true
@@ -59,6 +57,8 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Left"
 +++
+
+Bodó Balázzsal és Puha Zoltánnal közös tudományos publikációnk első változatához észrevételeket a [kapcsolat](#contact) oldalon keresztül lehet küldeni magyarul vagy angolul, a szöveg csak angolul érhető el.
 
 [Library Genesis](https://libgen.is/) is one of the oldest and largest illegal scholarly book collections online. In the middle of 2018, this shadow library is hosting and making available without the authorization of copyright holders more than 2 million scholarly publications, monographs, textbooks, as well many works of fiction. It also provides a back-up archive of scientific papers illegally accessed via the Sci-Hub service. Using new, extensive, first hand direct observation data on its usage, this paper follows up on earlier studies on the role this shadow library plays in the global scholarly publication ecosystem.
 
