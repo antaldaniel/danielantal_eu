@@ -62,4 +62,4 @@ math = false
   focal_point = "TopLeft"
 +++
 
-Please review the [workflow](http://eurobarometer.danielantal.eu/articles/workflow.html) here.
+Please review the [README](http://eurobarometer.danielantal.eu/) here. The package is currently being harmonized with the more general [retroharmonize](publications/retroharmonize_2020) package.
