@@ -7,3 +7,4 @@ public/
 .Rproj
 .Rproj.user
 .Rhistory
+^.Rproj.user/

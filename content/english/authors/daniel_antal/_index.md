@@ -63,4 +63,4 @@ user_groups:
 - Founders
 ---
 
-Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for my recommendations, and I apply the standards and ethical guidelines of the Chartered Financial Analyst Institute. 
+Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for my recommendations, and applies the standards and ethical guidelines of the Chartered Financial Analyst Institute. He is the author of several R packages, some of which are released on CRAN.
