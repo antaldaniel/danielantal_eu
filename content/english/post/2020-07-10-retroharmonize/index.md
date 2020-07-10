@@ -26,7 +26,7 @@ summary = "The very techincal terms of *ex ante* , *ex post* or retrospective ha
 +++
 
 
-In the last weeks releasing the early source code of two R packages, [retroharmonize](publication/retroharmonize_2020/) for *ex post* harmonization infrastructure and [eurobarometer](publication/eurobarometer_2020/) for Eurobarometer-specific harmonization work, complemented by my earlier release of [regions](publication/regions_2020/), which tracks about 20,000 regional boundary changes of French departments, Polish voivodeships and Hungarian counties, and other sub-national divisions of about 32 European countries.
+In the last weeks I have been releasing the early source code of two R packages, [retroharmonize](publication/retroharmonize_2020/) for the *ex post* harmonization infrastructure of surveys, and  [eurobarometer](publication/eurobarometer_2020/) for Eurobarometer-specific work, complemented by my earlier release of [regions](publication/regions_2020/), which tracks about 20,000 regional boundary changes of French departments, Polish voivodeships and Hungarian counties, and other sub-national divisions of about 32 European countries.
 
 The very techincal terms of *ex ante* , *ex post* or retrospective harmonization hide opportunities that can significantly increase the value for money in empirical market research, potentially increasing the value of a high-cost, high-value survey to multiple times of its euro value.
 
