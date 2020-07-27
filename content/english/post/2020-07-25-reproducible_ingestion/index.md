@@ -9,6 +9,8 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["R", "open-data", "reproducible"]
 
+category = "rblogger"
+
 summary = "If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible."
 
 # Featured image
