@@ -2,7 +2,7 @@
 title = "Reproducible data ingestion in practice"
 
 date = 2020-07-24T15:00:00
-lastmod = 2020-07-24T15:00:00
+lastmod = 2020-07-27T11:00:00
 draft = false
 
 authors = ["Daniel Antal, CFA"]
@@ -28,8 +28,7 @@ summary = "If your analytical work has used a certain type of data at least two 
 
 ## How does a reproducible data ingestion look like in practice? 
 
-If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible.  We demonstrate a simple data ingestion from Eurostat.  Daniel is part of the [rOpenGov](http://ropengov.github.io/) collective that maintains the [eurostat](https://github.com/ropengov/eurostat) package for reproducible access to the European statistical agencies data warehouse.
-
+If your analytical work has used a certain type of data at least two times in the past, it is likely that the data will be needed again.  This is a good time to make the data ingestion automatic and reproducible.  We demonstrate a simple data ingestion from Eurostat.  I am a contributor and developer of the  [rOpenGov](http://ropengov.github.io/) collective that maintains the [eurostat](https://github.com/ropengov/eurostat) package for reproducible access to the European statistical agencies data warehouse, and my other packages [iotables](http://iotables.ceemid.eu/) for national accounts data in input-output analysis and [regions](http://regions.danielantal.eu/) for regional statistics.
 
 ```r
 library(eurostat)
@@ -243,7 +242,7 @@ You are wondering how you could match this data with your own records, or data a
 
 There is no easy solution for this problem.  Within the EU in the last 20 years there were several thousand internal boundary changes --- states, provinces, regions are rather free to change their internal administration boundaries. Regions are constantly changing their names or their spelling, too. Sometimes they use a standard English translation of their region, sometimes only the national language variants.  In Greece or Bulgaria they do not even use the Latin alphabet!
 
-[Daniel](https://satellitereport.com/author/daniel/) and [Istvan](https://satellitereport.com/author/istvan-zsoldos/) created and released an open-source code library, [regions](http://regions.danielantal.eu/) to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat's EU-only definitions.
+With (https://satellitereport.com/author/daniel/) and [Istvan](https://satellitereport.com/author/istvan-zsoldos/) we have created and released an open-source code library, [regions](http://regions.danielantal.eu/) to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat's EU-only definitions.
 
 For example, you can already foresee that there are future changes (to be implemented from the year 2021) that will affect two of these regions.
 

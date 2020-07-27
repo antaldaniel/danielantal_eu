@@ -63,13 +63,13 @@ math = false
 +++
 
 
-CEEMID & Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](https://danielantal.eu/publication/ceereport_2020/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
+CEEMID & Consolidated Independent presented and discussed with stakeholders the  [Central & Eastern European Music Industry Report 2020](http://ceereport2020.ceemid.eu/) as a case-study on national and comparative evidence-based policymaking in the cultural and creative sector on the [CCS Ecosystems: FLIPPING THE ODDS Conference](http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/) – a two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture of the European Commission with the Creative FLIP project.
 
 The CEE Report builds on the results of the first [Hungarian](https://danielantal.eu/publication/hungary_music_industry_2014/), [Slovak](https://danielantal.eu/publication/slovak_music_industry_2019/), [Croatian](https://danielantal.eu/publication/private_copying_croatia_2019/) and [Czech](http://czdev.ceemid.eu/) music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings. 
 
 Our research findings were earlier presented and discussed in Vienna, Prague, Budapest and Bratislava with stakeholders. 
 
-You can find the earlier presentations in the [blog](#posts) section of the website.
+You can find the earlier presentations in the [blog](#posts) section of the website and the full report in html, pdf and epub formats [here](http://ceereport2020.ceemid.eu/).
 
 ## Executive Summary
 
