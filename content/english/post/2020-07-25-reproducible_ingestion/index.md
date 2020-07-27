@@ -242,7 +242,7 @@ You are wondering how you could match this data with your own records, or data a
 
 There is no easy solution for this problem.  Within the EU in the last 20 years there were several thousand internal boundary changes --- states, provinces, regions are rather free to change their internal administration boundaries. Regions are constantly changing their names or their spelling, too. Sometimes they use a standard English translation of their region, sometimes only the national language variants.  In Greece or Bulgaria they do not even use the Latin alphabet!
 
-With (https://satellitereport.com/author/daniel/) and [Istvan](https://satellitereport.com/author/istvan-zsoldos/) we have created and released an open-source code library, [regions](http://regions.danielantal.eu/) to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat's EU-only definitions.
+With [Istvan](https://satellitereport.com/author/istvan-zsoldos/) we have created and released an open-source code library, [regions](http://regions.danielantal.eu/) to deal with similar issues. It allows the changes between boundary definition between 1999-2021, or the connection of the globally used geographical typology adopted by Google with Eurostat's EU-only definitions.
 
 For example, you can already foresee that there are future changes (to be implemented from the year 2021) that will affect two of these regions.
 
