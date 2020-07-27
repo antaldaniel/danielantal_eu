@@ -1,10 +1,9 @@
 # IDEs
 .idea/
+/resources/
+/public/
+.Rproj.user/
 
 # Hugo
-^resources
-^public
-^.Rproj
-^\\.Rproj
 ^.Rhistory
-^\\.Rhistory
+
