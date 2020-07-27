@@ -2,9 +2,9 @@
 .idea/
 
 # Hugo
-resources/
-public/
-.Rproj
-.Rproj.user
-.Rhistory
-^.Rproj.user/
+^resources
+^public
+^.Rproj
+^\\.Rproj
+^.Rhistory
+^\\.Rhistory
