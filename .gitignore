@@ -6,6 +6,7 @@
 \\.Rproj.user/
 themes/academic/exampleSite/resources/
 
-# Hugo
-^.Rhistory
-
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
