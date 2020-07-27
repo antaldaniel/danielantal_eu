@@ -3,6 +3,8 @@
 /resources/
 /public/
 .Rproj.user/
+\\.Rproj.user/
+themes/academic/exampleSite/resources/
 
 # Hugo
 ^.Rhistory
