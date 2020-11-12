@@ -18,15 +18,15 @@ authors = ["Daniel Antal"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "Az első átfogó magyar zeneipari jelentés.  A három jövedelmáramlás modelljével összegeztük a zenészek által szerzett, élőben és hangfelvételen előadott műveinek jövedelmét, közönségét, értékét.  Kiszámoltuk a gazdasághoz adott érték, a befektetések a foglalkoztatási hatás mértékét. Ez a 143-oldalas tanulmány több hasonló közép-európai tanulmány előfutára volt."
+abstract = "The first comprehensive music industry report in Hungary and in the CEE region using the three income stream model to assess the income, value, value added in live music, publishing and recording.  A 143-pages report that was followed by the Slovakian and Croatian reports, and annual reports in Hungary."
 
-abstract_short = "Az első átfogó magyar zeneipari jelentés.  A három jövedelmáramlás modelljével összegeztük a zenészek által szerzett, élőben és hangfelvételen előadott műveinek jövedelmét, közönségét, értékét.  Kiszámoltuk a gazdasághoz adott érték, a befektetések a foglalkoztatási hatás mértékét."
+abstract_short = "The first comprehensive music industry report in Hungary and in the CEE region using the three income stream model to assess the income, value, value added in live music, publishing and recording."
 
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
-projects = ["market-report", "ceemid"]
+projects = ["music-report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
