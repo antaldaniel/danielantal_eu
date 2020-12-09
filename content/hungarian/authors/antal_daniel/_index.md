@@ -14,8 +14,9 @@ role: Founder
 
 # Organizations/Affiliations
 organizations:
-- name: Satellite Report - Visegrad Investments - CEEMID
-  url: "https//danielantal.eu"
+- name: Reprex B.V.
+  url: "https://dataobservatory.eu/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Szakmia érdeklődési területeim a pénzügytan, reprodukálható társadalomtudományi kutatások, programozás R nyelven.
