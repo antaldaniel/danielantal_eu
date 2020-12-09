@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Co-founder of reproducible research company
+role: Data Scientist & Co-Founder of the Demo Music Observatory
 
 # Organizations/Affiliations
 organizations:
-- name: Reprex BV
-  url: "dataobservatory.eu"
+- name: Reprex B.V.
+  url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducible research, open data, and music.
+bio: My research interests include reproducible social science, economics and finance.
 
 topics:
 - Intangible Assets / Royalty Valuation
@@ -33,7 +33,9 @@ education:
   - course: M.Sc. Economic Regulation and Competition Policy
     institution: City University
     year: 2002
-
+  - course: M.Sc. Economics (Actuary Science & Applied Operational Research)
+    institution: Budapest University of Economics Sciences
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- admin
+- Data Scientists
 ---
 
-This is the administrator account.
+Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
