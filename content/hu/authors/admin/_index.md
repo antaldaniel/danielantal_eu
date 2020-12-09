@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist & Co-Founder of Reprex BV
 
 # Organizations/Affiliations
 organizations:
-- name: Satellite Report
-  url: "satellitereport.com"
+- name: Reprex B.V.
+  url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reproducible social science, economics and finance.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+topics:
+- Intangible Assets / Royalty Valuation
+- Open Data
+- Music
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Chartered Financial Analyst
+    institution: CFA Institute
+    year: 2015
+  - course: M.Sc. Economic Regulation and Competition Policy
+    institution: City University
+    year: 2002
+  - course: M.Sc. Economics (Actuary Science & Applied Operational Research)
+    institution: Budapest University of Economics Sciences
+    year: 2001
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/antaldaniel
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0001-7513-6760
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/antaldaniel
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/antaldaniel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

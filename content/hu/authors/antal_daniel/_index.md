@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/antaldaniel
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-5712-2103
+  link: https://orcid.org/0000-0001-7513-6760
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel

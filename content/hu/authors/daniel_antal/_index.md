@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Founder
+role: Data Scientist & Co-Founder of Reprex BV
 
 # Organizations/Affiliations
 organizations:
-- name: Visegrad Investments - CEEMID
-  url: "https//danielantal.eu"
+- name: Reprex B.V.
+  url: "https://dataobservatory.eu/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -30,6 +31,13 @@ education:
   - course: Chartered Financial Analyst
     institution: CFA Institute
     year: 2015
+  - course: M.Sc. Economic Regulation and Competition Policy
+    institution: City University
+    year: 2002
+  - course: M.Sc. Economics (Actuary Science & Applied Operational Research)
+    institution: Budapest University of Economics Sciences
+    year: 2001  
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,12 +50,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/antaldaniel
-- icon: google-scholar
+- icon: orcid
   icon_pack: ai
-  link: 
+  link: https://orcid.org/0000-0001-7513-6760
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/antaldaniel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
