@@ -4,15 +4,15 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
-  contentDir = "content/english"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  languageCode = "en-gb"
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 [hu]
-languageCode = "hu"
-contentDir = "content/hungarian"
-title = "Antal Dániel, CFA"
+  languageCode = "hu"
+  contentDir = "content/hu"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  title = "Antal Dániel honlapja"
 [hu.params]
-description = "Antal Dániel személyes honlapja"
+  description = "Antal Dániel személyes honlapja"
 
 [[hu.menu.main]]
 name = "Rólam"
@@ -63,3 +63,4 @@ weight = 9
 name = "Kapcsolat"
 url = "#contact"
 weight = 10
+

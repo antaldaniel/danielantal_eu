@@ -1,12 +1,7 @@
 # IDEs
 .idea/
-/resources/
-/public/
-.Rproj.user/
-\\.Rproj.user/
-themes/academic/exampleSite/resources/
 
+# Hugo
+/resources/
+public/
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata

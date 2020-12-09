@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "..\\..\\..\\..\\..\\DANIEL~1\\AppData\\Local\\Temp\\hugo_cache\\modules\\filecache\\modules\\pkg\\mod\\github.com\\wowchemy\\wowchemy-hugo-modules\\wowchemy@v0.0.0-20201208221717-1d5456668842\\assets\\*"
+   ]
+  }
+ }
+}
