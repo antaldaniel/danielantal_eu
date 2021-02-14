@@ -27,6 +27,11 @@
   name = "Publications"
   url = "#featured"
   weight = 40
+  
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 45
 
 [[main]]
 name = "Use Cases"
