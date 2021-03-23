@@ -9,8 +9,7 @@ authors = ["Daniel Antal"]
 
 tags = ["listen-local", "music-observatory", "JUMP", "EU"]
 
-summary = "A Reprex társalapítójaként beválasztottak a JUMP 2021 Fellowship programjába. Jump 
-innovatív zenei üzleti modellek kifejlesztéséhez kínál támogatást nemzetközi szinten. A European Music Market Accelerator a MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck közös programja, aminek keretében a Demo Music Observatory és a Listen Local projekteket fogom fejleszteni a következő kilenc hónapban."
+summary = "A Reprex társalapítójaként beválasztottak a JUMP 2021 Fellowship programjába. Jump innovatív zenei üzleti modellek kifejlesztéséhez kínál támogatást nemzetközi szinten. A European Music Market Accelerator a MaMA Festival and Convention, UnConvention, MIL, Athens Music Week, Nouvelle Prague and Linecheck közös programja, aminek keretében a Demo Music Observatory és a Listen Local projekteket fogom fejleszteni a következő kilenc hónapban."
 
 projects = ["listen-local", "music-observatory"]
 
