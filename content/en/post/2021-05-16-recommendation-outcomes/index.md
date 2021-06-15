@@ -74,6 +74,7 @@ But this is not enough. We need to address the question of how new, better algor
 
 [In our paper](https://dataandlyrics.com/publication/european_visibilitiy_2021/) we argue for new regulatory considerations to create a better, and more accountable playing field for deploying algorithms in a quasi-autonomous system, and we suggest further research to align economic incentives with the creation of higher quality and less biased metadata. The need for further research on how these large systems affect various fundamental rights, consumer or competition rights, or cultural and media policy goals cannot be overstated. The first step is to open and understand these autonomous systems. It is not enough to say that the firing squads of Big Tech are shooting women out from charts, ethnic minority artists from screens, and small language authors from the virtual bookshelves. We must put a lot more effort on researching the sources of the problems that make machine learning algorithms behave in a way that is not compatible with our European values or regulations.
 
+## Read More on Data & Lyrics
 
 This blogpost appeared originally on our blog, [Data & Lyrics](https://dataandlyrics.com/).
 
