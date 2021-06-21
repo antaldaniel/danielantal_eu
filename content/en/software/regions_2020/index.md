@@ -1,6 +1,7 @@
 +++
 title = "regions R package"
 date = 2020-06-03T17:00:00
+lastmod = 2021-06-21T12:00:00
 draft = false
 
 authors = ["Daniel Antal"]
