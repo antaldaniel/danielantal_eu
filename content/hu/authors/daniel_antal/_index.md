@@ -15,7 +15,13 @@ role: Data Scientist & Co-Founder of Reprex BV
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
+  url: "https://reprex.nl/"
+- name:  Automated Data Observatories
   url: "https://dataobservatory.eu/"
+- name:  Centre for Competition Policy
+  url: "http://competitionpolicy.ac.uk/"
+- name: JUMP European Music Market Accelerator
+  url: "https://www.jumpmusic.eu/fellow2021/automated-music-observatory/"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,7 +55,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/antaldaniel
+  link: https://twitter.com/datandlyrics
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7513-6760
