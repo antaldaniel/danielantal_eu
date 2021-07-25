@@ -16,6 +16,12 @@ role: Data Scientist & Co-Founder of Reprex BV
 organizations:
 - name: Reprex B.V.
   url: "https://reprex.nl/"
+- name:  Automated Data Observatories
+  url: "https://dataobservatory.eu/"
+- name:  Centre for Competition Policy
+  url: "http://competitionpolicy.ac.uk/"
+- name: JUMP European Music Market Accelerator
+  url: "https://www.jumpmusic.eu/fellow2021/automated-music-observatory/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -72,4 +78,8 @@ user_groups:
 - Data Scientists
 ---
 
-Daniel Antal is an experienced data scientist and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations. Applying reproducible scientific methods, we are building open collaborations in the creative sectors to build trustworthy, etchical AI solutions, validate commercial AI and use big data for the benfit of small enterprises.  With a 20 years of experience in management consultancy he applies a thoroughly professional approach based in economics, finance in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
+Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation.  
+
+Reprex’s [automated data observatories](https://reprex.nl/#observatories) reduce non-billable and not-credited working hours in data processing, documentation, quality oversight by packaging scientific open-source software into a data-as-service and turning ill-processed proprietary data and not-yet-processed open data sources into business and policy indicators that can be used by all. 
+
+Daniel has 20 years’ experience in consulting on areas of strategy, acquisitions, regulated prices, and competition law. He holds a quantitative economics degree, and economic regulation degree, and he is a CFA charterholder. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
