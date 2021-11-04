@@ -17,10 +17,10 @@ role: Data Scientist & Co-Founder of Reprex BV
 organizations:
 - name: Reprex B.V.
   url: "https://reprex.nl/"
-- name:  Automated Data Observatories
-  url: "https://dataobservatory.eu/"
 - name:  Centre for Competition Policy
   url: "http://competitionpolicy.ac.uk/"
+- name: IViR Institute for Information Law
+  url: "https://www.ivir.nl/employee/antaldaniel/"
 - name: JUMP European Music Market Accelerator
   url: "https://www.jumpmusic.eu/fellow2021/automated-music-observatory/"
 
@@ -79,8 +79,6 @@ user_groups:
 - Data Scientists
 ---
 
-Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/).
+Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
 
-Reprex’s [automated data observatories](https://reprex.nl/#observatories) reduce non-billable and not-credited working hours in data processing, documentation, quality oversight by packaging scientific open-source software into a data-as-service and turning ill-processed proprietary data and not-yet-processed open data sources into business and policy indicators that can be used by all. 
-
-Daniel has 20 years’ experience in consulting on areas of strategy, acquisitions, regulated prices, and competition law. He holds a quantitative economics degree, and economic regulation degree, and he is a CFA charterholder. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
