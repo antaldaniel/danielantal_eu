@@ -44,6 +44,18 @@ url_code = ""
   focal_point = "Center"
 +++
 
+Listen Local Slovakia
+
+Listen Local Slovakia was an experimental programme developed during the COVID-19 period to improve the visibility of local repertoire in an increasingly algorithm-driven music ecosystem. It addressed a structural imbalance: recommendation systems trained on global-scale data tend to reinforce existing popularity, making smaller-language and local artists systematically harder to discover.
+
+The project aimed to create alternative pathways for music discovery through locally grounded playlists, radio programming, and data-driven promotion tools. Instead of relying on opaque platform algorithms, it explored transparent, reproducible methods for connecting artists with audiences, combining open data, playlist analysis, and collaborative curation.
+
+My role was to transfer and adapt the Hungarian “Hallgass Hazait” concept to Slovakia, redesigning it for a different linguistic, institutional, and market environment. This involved aligning stakeholders across the Slovak music ecosystem and introducing an open policy analysis approach to ensure that methods, data, and assumptions remained transparent and reusable .
+
+The project also served as an early prototype for later work on music data infrastructures. It demonstrated that discoverability is not only a cultural or editorial issue, but a data governance problem linked to metadata quality, identifier systems, and rights information — challenges that are widely recognised across European creative industries .
+
+For me, Listen Local Slovakia marked the transition from advocacy for local music to building the data and policy tools required to support it sustainably.
+
 *“Big data creates injustice.”* -- Cathy O'Neil, author of [Weapons of Math Destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/)
 
 Our Listen Local project is aiming to create better radio playlisting, personal playlisting and concert promotion in a local context: within Slovakia or at a more specific level, Flanders or even the city of Utrecht or Budapest. We aim to place our partner’s music in local radio lists, personal playlists, and grow their fan base during the COVID-19 pandemic so that in 2021 they can eventually meet in the venues again, and carry out longer, more successful tours than ever. 
