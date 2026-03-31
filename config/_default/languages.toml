@@ -29,25 +29,25 @@ name = "Blog"
 url = "#posts"
 weight = 3
 
-[[hu.menu.main]]
-name = "Témák"
-url = "#tags"
-weight = 4
+#[[hu.menu.main]]
+#name = "Témák"
+#url = "#tags"
+#weight = 4
 
 [[hu.menu.main]]
-name = "Projektek"
+name = "Portfolio"
 url = "#projects"
 weight = 5
 
-[[hu.menu.main]]
-name = "Projektek"
-url = "#projects"
-weight = 6
+#[[hu.menu.main]]
+#name = "Projektek"
+#url = "#projects"
+#weight = 6
 
-[[hu.menu.main]]
-name = "Esetek"
-url = "/esetek/"
-weight = 7
+#[[hu.menu.main]]
+#name = "Esetek"
+#url = "/esetek/"
+#weight = 7
 
 [[hu.menu.main]]
 name = "Előadások"
