@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Antal, CFA
+title: Daniel Antal
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist & Co-Founder of Reprex BV
+role: Founder of Reprex BV
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,9 @@ organizations:
   url: "https://reprex.nl/"
 - name:  Automated Data Observatories
   url: "https://dataobservatory.eu/"
-- name:  Centre for Competition Policy
+- name:  OpenCollections
   url: "http://competitionpolicy.ac.uk/"
-- name: JUMP European Music Market Accelerator
-  url: "https://www.jumpmusic.eu/fellow2021/automated-music-observatory/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -51,9 +50,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/antaldaniel
+  link: https://www.linkedin.com/in/antaldaniel/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7513-6760
@@ -78,8 +77,7 @@ user_groups:
 - Data Scientists
 ---
 
-Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/).
 
-Reprex’s [automated data observatories](https://reprex.nl/#observatories) reduce non-billable and not-credited working hours in data processing, documentation, quality oversight by packaging scientific open-source software into a data-as-service and turning ill-processed proprietary data and not-yet-processed open data sources into business and policy indicators that can be used by all. 
+I am a data and AI entrepreneur and innovator with a long track record of working with the cultural sector and creative industries. As the founder of [Reprex](https://reprex.nl/), a for-profit impact startup aligned with selected UN Sustainable Development Goals, I work with open data, open-source software, and open platforms. These platforms, such as the Open Music Observatory or OpenCollections, are designed to enable public–private partnerships that help independent, niche, and minority cultural content remain visible and fairly remunerated on global platforms. You can read more about my professional work and related scientific R&D activities on the Reprex website.
 
-Daniel has 20 years’ experience in consulting on areas of strategy, acquisitions, regulated prices, and competition law. He holds a quantitative economics degree, and economic regulation degree, and he is a CFA charterholder. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
+Throughout my life, I have maintained a strong interest in various forms of art. Coming from a family of musicians and photographers, I work professionally with music and have been actively involved in photography since the age of eight. I can create and restore both archaic and modern analogue photographs, as well as digital images and scans; I also work with locating photographs and collections, and interpreting their history and production. I enjoy reading and writing in my mother tongue, Hungarian. Thanks to excellent teachers and editors, I have published essays at a high level that I unfortunately cannot reproduce in English, the language I use most days. This attachment to language connects me to Finno-Ugric communities, who are kindred spirits using expressive and, to the outside world, somewhat hidden languages. This personal website is mainly devoted to these interests.

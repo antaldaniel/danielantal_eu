@@ -35,8 +35,8 @@ weight = 3
 #weight = 4
 
 [[hu.menu.main]]
-name = "Portfolio"
-url = "#projects"
+name = "Portfólió"
+url = "#portfolio"
 weight = 5
 
 #[[hu.menu.main]]

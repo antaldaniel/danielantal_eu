@@ -116,12 +116,12 @@ appointment_url = "https://calendly.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "fab", name = "Email", link = "#contact"},
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/antaldaniel"},
+#  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/antaldaniel"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/antaldaniel/"},
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/antaldaniel"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@antaldaniel"},
+#  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@antaldaniel"},
   {icon = "orcid", icon_pack = "ai", name = "ORCID", link = "https://orcid.org/0000-0001-7513-6760"},
   {icon = "figshare", icon_pack = "ai", name = "Fighshare", link = "https://figshare.com/authors/_/3739732"},
   {icon = "dataverse", icon_pack = "ai", name = "Dataverse", link = "https://dataverse.harvard.edu/dataverse/harvard?q=%28dvName%3ADaniel+dvName%3AAntal%29+OR+%28authorName%3ADaniel+authorName%3AAntal%29"},
@@ -136,7 +136,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "antaldaniel"
+#twitter = "antaldaniel"
 
 ############################
 ## Regional Settings
