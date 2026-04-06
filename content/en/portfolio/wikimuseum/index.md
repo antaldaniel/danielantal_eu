@@ -35,20 +35,38 @@ url_code = ""
 [image]
   # Caption (optional)
   caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+Wikimuseum is an experimental curatorial concept developed with Wikimedia Eesti 
+and Wikimedia Hungary, creating multilingual, co-curated exhibitions across 
+Wikimedia Commons, Wikidata, and Wikipedia. It brings together dispersed cultural 
+heritage—often never seen together physically—into structured digital exhibitions 
+that connect institutional collections, private archives, and community knowledge. 
+
+The project explores how open platforms can support collaboration between museums, 
+researchers, and source communities, while addressing legal, ethical, and 
+data governance challenges.
+
 
 ## Key exhibitions & outcomes
 
 **Livonian Traditional Dress (TextileBase integration)**
-A cross-border exhibition connecting collections from Latvia, Estonia, and Finland, forming the first comprehensive, structured visual and data-driven presentation of Livonian dress heritage.
-Mari Traditional Clothing (ERM-led multilingual exhibition)
-Built primarily on ERM collections and complemented by Finnish and Wikimedia Commons materials, this exhibition provides accessible interpretation in Estonian, Hungarian, English, Russian, and Meadow Mari, reconnecting dispersed heritage with both international audiences and Mari communities.
+A cross-border exhibition connecting collections from Latvia, Estonia, and Finland, 
+forming the first comprehensive, structured visual and data-driven presentation of 
+the dress heritage of Liv (Livonian) people.
+
+**Mari Traditional Clothing (ERM-led multilingual exhibition)**
+Built primarily on ERM collections and complemented by Finnish and Wikimedia 
+Commons materials, this exhibition provides accessible interpretation in 
+Estonian, Hungarian, English, Russian, and Meadow Mari, reconnecting dispersed 
+heritage with both international audiences and Mari communities.
+
+
 **Udmurt Ethnographic Photography** (ongoing, community-informed curation)
-- A collaborative project with Wikimedia Hungary and Udmurt contributors focusing on improving provenance, correcting historical descriptions, and identifying dispersed or censored photographic materials across collections.
+A collaborative project with Wikimedia Hungary and Udmurt contributors focusing 
+on improving provenance, correcting historical descriptions, and identifying 
+dispersed or censored photographic materials across collections.
 
 ## Key insights / lessons
 - Open platforms can function as curated museum environments, not only repositories, when structured with clear metadata and narrative layers
