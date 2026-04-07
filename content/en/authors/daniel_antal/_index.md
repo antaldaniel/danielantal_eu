@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist & Co-Founder of Reprex BV
+role: Data Scientist & Founder of Reprex BV
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducible social science, economics and finance.
+bio: Data and AI entrepreneur working with cultural data, with a life-long passion for photography.
 
 topics:
 - Intangible Assets / Royalty Valuation
@@ -69,10 +69,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Data Scientists
+- personal
 ---
 
 
-I am a data and AI entrepreneur and innovator with a long track record of working with the cultural sector and creative industries. As the founder of Reprex, a for-profit impact startup aligned with selected UN Sustainable Development Goals, I work with open data, open-source software, and open platforms. These platforms, such as the Open Music Observatory or OpenCollections, are designed to enable public–private partnerships that help independent, niche, and minority cultural content remain visible and fairly remunerated on global platforms. You can read more about my professional work and related scientific R&D activities on the [Reprex](https://reprex.nl/) website.
+I am a data and AI entrepreneur and innovator working at the intersection of cultural heritage, data, and digital infrastructures. As the founder of Reprex, a for-profit impact startup aligned with selected UN Sustainable Development Goals, I develop open data, open-source software, and open platforms that enable public–private collaboration in the cultural sector. Initiatives such as the Open Music Observatory and OpenCollections are designed to help independent, niche, and minority cultural content remain visible and fairly remunerated on global platforms. You can read more about my professional work and related scientific R&D activities on the [Reprex](https://reprex.nl/) website.
 
-Throughout my life, I have maintained a strong interest in various forms of art. Coming from a family of musicians and photographers, I work professionally with music and have been actively involved in photography since the age of eight. I can create and restore both archaic and modern analogue photographs, as well as digital images and scans; I also work with locating photographs and collections, and interpreting their history and production. I enjoy reading and writing in my mother tongue, Hungarian. Thanks to excellent teachers and editors, I have published essays at a high level that I unfortunately cannot reproduce in English, the language I use most days. This attachment to language connects me to Finno-Ugric communities, who are kindred spirits using expressive and, to the outside world, somewhat hidden languages. This personal website is mainly devoted to these interests.
+Throughout my life, I have maintained a strong interest in various forms of art. Coming from a family of musicians and photographers, I work professionally with music and have been actively involved in photography since childhood. My practice includes analogue and digital photography, restoration, and the identification and interpretation of photographic collections and their histories.
+
+I also maintain a close connection to language and literary expression, particularly in Hungarian, my mother tongue. This interest connects me to Finno-Ugric cultures and communities, whose linguistic and cultural expressions remain both distinctive and underrepresented. This personal website reflects these intertwined interests in cultural heritage, photography, music, and open knowledge.

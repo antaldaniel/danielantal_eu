@@ -8,7 +8,7 @@ date = 2025-09-24T00:00:00
 lastmod = 2026-03-31T18:19:00+02:00
 
 # Project summary to display on homepage.
-summary = "Wikimuseum is an experimental curatorial concept developed with Wikimedia Eesti and Wikimedia Hungary, creating multilingual, co-curated exhibitions across Wikimedia Commons, Wikidata, and Wikipedia. It brings together dispersed cultural heritage—often never seen together physically—into structured digital exhibitions that connect institutional collections, private archives, and community knowledge. The project explores how open platforms can support collaboration between museums, researchers, and source communities, while addressing legal, ethical, and data governance  challenges."
+summary = "Wikimuseum is a multilingual, Wikimedia-based curatorial concept linking dispersed cultural heritage into co-curated digital exhibitions across Commons, Wikidata, and Wikipedia."
 
 # Tags: can be used for filtering projects.
 tags = ["museum", "wikimuseum", "decolonisation", "governance"]
